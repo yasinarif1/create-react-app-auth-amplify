@@ -1,7 +1,7 @@
 {
     "identityPoolName": "cognitocf0c6096_identitypool_cf0c6096",
     "allowUnauthenticatedIdentities": false,
-    "resourceNameTruncated": "cognit2c925d4b",
+    "resourceNameTruncated": "cognit03fae5b1",
     "userPoolName": "cognitocf0c6096_userpool_cf0c6096",
     "autoVerifiedAttributes": [
         "email"
@@ -47,7 +47,7 @@
         ]
     },
     "hostedUI": true,
-    "hostedUIDomainName": "authcra2c925d4b-2c925d4b",
+    "hostedUIDomainName": "createreactappauthamplify03fae5b1-03fae5b1",
     "authProvidersUserPool": [
         "Google"
     ],
